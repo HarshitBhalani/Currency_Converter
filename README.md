@@ -22,7 +22,7 @@ Please follow these steps to run your Currency Converter project without any err
 Click on the `localhost` link that appears in the terminal to open the project in your browser and check its functionality.
 
 If you still get an error or get stuck, feel free to message me on Buy Me a Coffee.
-[buymeacoffee](https://buymeacoffee.com/harshit187)
+https://buymeacoffee.com/harshit187
 
 ---
 
